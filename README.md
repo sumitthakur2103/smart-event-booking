@@ -17,12 +17,12 @@ A full-stack event booking application with an Express + MySQL backend and a Rea
 - CORS
 - dotenv
 
-## MySQL Setup
+## Database Setup
 
-1. Open MySQL and create/import the database:
+1. Open MySQL Workbench
 
 ```sql
-SOURCE server/event_booking.sql;
+Run the database.sql file to create tables.
 ```
 
 Or run the file using your MySQL client from the project root:
