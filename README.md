@@ -70,10 +70,10 @@ The frontend runs at `http://localhost:5173`.
 
 ## Screenshots
 
+<img width="1919" height="1079" alt="Screenshot 2026-05-13 161900" src="https://github.com/user-attachments/assets/d08f4da5-693c-4eb5-8dc8-d95b6ba9e653" />
+<img width="1919" height="1079" alt="Screenshot 2026-05-13 161933" src="https://github.com/user-attachments/assets/41a81b6b-ca17-4ebd-bc94-d29556307bbc" />
 <img width="1919" height="1079" alt="Screenshot 2026-05-13 161911" src="https://github.com/user-attachments/assets/fe9ff74f-d30b-4b50-bb59-e761abff26c0" />
 <img width="1919" height="1079" alt="Screenshot 2026-05-13 161918" src="https://github.com/user-attachments/assets/6ddc431f-0d93-4edf-bb9a-880957e88070" />
-<img width="1919" height="1079" alt="Screenshot 2026-05-13 161933" src="https://github.com/user-attachments/assets/41a81b6b-ca17-4ebd-bc94-d29556307bbc" />
-<img width="1919" height="1079" alt="Screenshot 2026-05-13 161900" src="https://github.com/user-attachments/assets/d08f4da5-693c-4eb5-8dc8-d95b6ba9e653" />
 <img width="1919" height="1078" alt="Screenshot 2026-05-13 161907" src="https://github.com/user-attachments/assets/178984db-60aa-498c-85f5-03573d44fd0f" />
 
 ## API Endpoints
