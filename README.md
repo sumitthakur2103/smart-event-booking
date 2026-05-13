@@ -121,3 +121,7 @@ client/
       AdminAddEvent.jsx
       AdminEditEvent.jsx
 ```
+
+## Contact
+
+For any queries, feel free to reach out at : tsumit0505@gmail.com.
